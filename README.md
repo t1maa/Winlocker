@@ -1,5 +1,5 @@
 # Winlocker
-Winlocker on C#
+A simple Winlocker on C#
 
 Описание: https://securedev.info/posts/winlocker.html
 
